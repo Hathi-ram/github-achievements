@@ -1,4 +1,4 @@
-# github-achievements
+# Github-achievements
 # GitHub Achievements Practice  
 This repository is created to learn GitHub features such as Issues, Branches, Pull Requests, and Achievements. 
 ## Goals -
